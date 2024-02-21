@@ -18,20 +18,6 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-surya_data=input()
-
-vijay_data=input()
-
-tmp=surya_data
-
-surya_data=vijay_data
-
-vijay_data=tmp
-
-print("Swapped values are:",surya_data,vijay_data)
-
-## OUTPUT:
-![Screenshot 2024-02-21 095250](https://github.com/Devadhaarini/Swapping-two-values/assets/145796552/59030453-1d2e-4dda-86a8-59c6fe909d70)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
