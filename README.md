@@ -28,7 +28,6 @@ print("Swapped values are:",surya_data,vijay_data)
 ```
 ## OUTPUT:
 ![Screenshot 2024-03-12 132630](https://github.com/Devadhaarini/Swapping-two-values/assets/145796552/475a9cf4-f355-466b-b067-4d9862cd38d1)
-
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
