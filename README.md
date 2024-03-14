@@ -18,19 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 surya_data=input()
-
 vijay_data=input()
-
 tmp=surya_data
-
 surya_data=vijay_data
-
 vijay_data=tmp
-
 print("Swapped values are:",surya_data,vijay_data)
+```
 ## OUTPUT:
-![Screenshot 2024-03-11 204702](https://github.com/Devadhaarini/Swapping-two-values/assets/145796552/9592ef0a-82df-4ce4-84e1-018663f59194)
+![Screenshot 2024-03-12 132630](https://github.com/Devadhaarini/Swapping-two-values/assets/145796552/475a9cf4-f355-466b-b067-4d9862cd38d1)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
