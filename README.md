@@ -30,7 +30,8 @@ vijay_data=tmp
 
 print("Swapped values are:",surya_data,vijay_data)
 ## OUTPUT:
-![alt text](image.png)
+![Screenshot 2024-03-11 204702](https://github.com/Devadhaarini/Swapping-two-values/assets/145796552/9592ef0a-82df-4ce4-84e1-018663f59194)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
